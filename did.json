@@ -18,6 +18,6 @@
     }
   ],
   "assertionMethod": [
-    "did:web:raw.githubusercontent.com:josedvd123:credential-test:main#{A unique ID for this verification method}"
+    "did:web:raw.githubusercontent.com:josedvd123:credential-test:main#1"
   ]
 }
